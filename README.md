@@ -1,5 +1,5 @@
 ## git branching
-
+Cheat sheet for git and git branching
 ## basic git commands
 
 * 'git init' - create local repo
