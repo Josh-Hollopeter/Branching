@@ -7,7 +7,11 @@
 * 'git commit' - commit to local
 * 'git status' - See status of local repo
 * 'git log' - view commit log
+
+* 'git log --oneline' - show short log
+
 * git remote add origin url - connect local repo to remote
+
 
 ### basic branching
 * git branch - show branches
