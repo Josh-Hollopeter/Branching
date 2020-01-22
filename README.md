@@ -7,6 +7,9 @@
 * 'git commit' - commit to local
 * 'git status' - See status of local repo
 * 'git log' - view commit log
+* git remote add origin url - connect local repo to remote
 
 ### basic branching
 * git branch - show branches
+* git branch branchName - create branch
+* git checkout branchName - checkout branch
